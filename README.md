@@ -1,0 +1,1 @@
+A Razorpay clone that simulates an online payment gateway service, allowing merchants to accept payments from various payment methods such as credit cards, debit cards, UPI, and wallets. The project is built to demonstrate how a payment gateway system can work, mimicking the essential functionalities of Razorpay.
